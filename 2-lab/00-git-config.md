@@ -4,13 +4,10 @@
 
 ![Git config](../../img/git-config-1.png)
 
-You can also get a specific configuration value:
+Давайте установим наше имя пользователя и адрес электронной почты:
 
-![Git config get](../../img/git-config-2.png)
+![Set username and email](../../img/git-config-2.png)
 
-Let's set our username and email:
+Имя `name` и электронная почта `email` в конфигурации Git необходимы для идентификации автора изменений. Эти данные используются при создании коммитов, чтобы каждый коммит содержал информацию о том, кто его создал. Это важно как для ведения истории изменений, так и для совместной работы в команде.
 
-![Set username and email](../../img/git-config-3.png)
-
-You could potentially also set it for just this repository 
-by omitting the `--global` flag.
+Вы также можете потенциально установить его только для этого репозитория, убрав флаг `--global`.
