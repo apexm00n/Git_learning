@@ -21,14 +21,14 @@
 
 ![Git for Windows command](../img/git-for-windows-bash-version.png)
 
-## Установка на MacOs
+## Установка на macOS
 
 ### Установщик
 Используйте [установщик](https://git-scm.com/download/mac) с официального сайта.
 
 ### Homebrew
 
-Если вы используете homebrew, введите команду
+Если вы используете `homebrew`, введите команду
 ```
 brew install git
 ```
@@ -41,7 +41,7 @@ brew install git
 git --version
 ```
 
-Она выведет версию вашего git. Если это произошло, вы успешно его установили.
+Она выведет версию вашего `git`. Если это произошло, вы успешно его установили.
 
 ## Установка на Linux
 
