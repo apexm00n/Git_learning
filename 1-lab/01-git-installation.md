@@ -6,7 +6,7 @@
 
 Установщик [Git for Windows](https://git-scm.com/download/win)
 
-![Git for Windows installer](./img/git-for-windows-site.png)
+![Git for Windows installer](../img/git-for-windows-site.png)
 
 После скачивания открывается установщик. Вы увидите несколько подсказок для настройки Git для Windows. Если вы не знаете, что выбрать, просто нажмите «Далее», ничего не меняя. Значения по умолчанию разумны и обычно соответствуют вашим требованиям.
 
@@ -15,11 +15,11 @@
 
 Затем после установки необходимо найти в поиске *GitBash* и запустить программу:
 
-![Git for Windows finder](./img/git-for-windows-finder.png)
+![Git for Windows finder](../img/git-for-windows-finder.png)
 
 Если вы запустите Git Bash и введете `git --version`, вы должны увидеть следующий вывод:
 
-![Git for Windows command](./img/git-for-windows-bash-version.png)
+![Git for Windows command](../img/git-for-windows-bash-version.png)
 
 ## Установка на MacOs
 
@@ -69,4 +69,4 @@ git --version
 
 Вы должны увидеть подобное:
 
-![Git version on Linux](./img/git-linux-version.png)
+![Git version on Linux](../img/git-linux-version.png)
